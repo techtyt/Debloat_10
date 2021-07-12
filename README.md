@@ -1,5 +1,5 @@
 ### Debloat_10
-##**_PLEASE READ THIS_**
+**_PLEASE READ THIS_**
 
 **debloat student**
 
