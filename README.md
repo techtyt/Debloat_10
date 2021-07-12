@@ -1,6 +1,6 @@
 # Debloat_10
 
-*debloat student*
+###debloat student
 for students, keeps onenote,paint3d,3dviewer,cortana
 
 *debloat extreme*
