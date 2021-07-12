@@ -1,6 +1,7 @@
 ### Debloat_10
 **_PLEASE READ THIS_**
 
+
 **debloat student**
 
 for students, keeps onenote,paint3d,3dviewer,cortana
