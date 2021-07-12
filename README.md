@@ -1,15 +1,19 @@
 # Debloat_10
 
 **debloat student**
+
 for students, keeps onenote,paint3d,3dviewer,cortana
 
 **debloat extreme**
+
 removes almost everything
 
 **debloat games**
+
 removes everything except store and xbox apps
 
 **debloat-0**
+
 for an average computer user
 
 If you don't see the one you want edit the ps1 yourself
