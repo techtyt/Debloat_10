@@ -4,7 +4,7 @@
 for students, keeps onenote,paint3d,3dviewer,cortana
 
 *debloat extreme*
-remove almost everything
+removes almost everything
 
 *debloat games*
 removes everything except store and xbox apps
